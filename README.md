@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Day-z09
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Vertex AI
+- 👋 Hi, I’m @Day-Z
+- 👀 I’m interested in Data Engineering
 - 💞️ I’m looking to collaborate on whatever I can
 
 
